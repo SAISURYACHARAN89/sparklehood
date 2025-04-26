@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# production
+dist/
+
+# environment variables
+.env
+
+# misc
+.DS_Store
+*.log
+
+# typescript
+*.tsbuildinfo

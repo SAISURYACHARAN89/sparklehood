@@ -1,5 +1,6 @@
 # AI Safety Incident Log Service
 
+Github : "https://github.com/SAISURYACHARAN89/sparklehood"
 A RESTful API service to log and manage hypothetical AI safety incidents.
 
 ## Features
@@ -27,4 +28,3 @@ The database will be automatically initialized with sample data if empty.
 ## Environment Variables
 
 - `PORT` - Port to run the server on (default: 3000)
-
